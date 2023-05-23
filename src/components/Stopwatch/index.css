@@ -1,0 +1,42 @@
+/* Write CSS here */
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png');
+  height: 100vh;
+}
+.card {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 400px;
+  margin: 30px;
+}
+.cen {
+  display: flex;
+  justify-content: center;
+}
+.img {
+  margin: 10px;
+}
+.hh {
+  text-align: center;
+}
+.but {
+  display: flex;
+  justify-content: center;
+}
+.but1 {
+  background-color: green;
+  margin: 10px;
+  color: white;
+  border: 0px solid transparent;
+}
+.but2 {
+  background-color: red;
+  margin: 10px;
+  color: white;
+  border: 0px solid transparent;
+}
+.but3 {
+  background-color: orange;
+  margin: 10px;
+  color: white;
+  border: 0px solid transparent;
+}
